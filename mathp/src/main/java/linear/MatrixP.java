@@ -56,6 +56,4 @@ public interface MatrixP {
         return arrayListResult;
     }
 
-
-
 }
